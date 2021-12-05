@@ -3,7 +3,7 @@ from linebot.models import FlexSendMessage
 import requests
 from bs4 import BeautifulSoup
 import random
-imgs=['https://i.imgur.com/VLPfJzt.jpg','https://i.imgur.com/6ENxTV4.jpg','https://i.imgur.com/BrwvyHu.jpg','https://i.imgur.com/IoPTVBE.jpg','https://i.imgur.com/MWl7oJa.jpg','https://i.imgur.com/1j3qUjh.jpg','https://i.imgur.com/peoFZNN.jpg','https://i.imgur.com/6d1kKIL.jpg']
+imgs=['https://i.imgur.com/VLPfJzt.jpg','https://i.imgur.com/6ENxTV4.jpg','https://i.imgur.com/BrwvyHu.jpg','https://i.imgur.com/IoPTVBE.jpg','https://i.imgur.com/MWl7oJa.jpg','https://i.imgur.com/peoFZNN.jpg','https://i.imgur.com/6d1kKIL.jpg']
 
 def single_stock(stockNumber):
 
